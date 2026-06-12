@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:7DD3FC&height=160&section=header&animation=fadeIn" />
-
 <div align="center">
 
 <img src="https://github.com/krjlabs.png" width="110" height="110" style="border-radius:50%;border:3px solid #38BDF8;" />
@@ -76,4 +74,3 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:38BDF8,100:0EA5E9&height=120&section=footer&animation=fadeIn" />
