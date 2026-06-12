@@ -1,152 +1,113 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:38BDF8,100:7DD3FC&height=180&section=header&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:7DD3FC&height=160&section=header&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=KRISSANA+JANMANEE)](https://git.io/typing-svg)
+<img src="https://github.com/krjlabs.png" width="115" height="115" style="border-radius:50%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=FULL+STACK+DEVELOPER;AI+%26+AUTOMATION+BUILDER;%E2%96%B6+THAILAND+%2F+REMOTE)](https://git.io/typing-svg)
+<h2>KRISSANA JANMANEE</h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&height=32&lines=Full+Stack+Developer+%7C+5%2B+Years;AI+%26+Automation+Builder;Open+to+Remote+Worldwide+🌏)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://github.com/krjlabs.png" width="120" height="120" style="border-radius:50%;" />
+![](https://img.shields.io/badge/📍_ประเทศไทย-0284C7?style=flat-square&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/💼_Open_to_Remote-0369A1?style=flat-square&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/⚡_5%2B_ปีประสบการณ์-0EA5E9?style=flat-square&logoColor=white)
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_ประเทศไทย-075985?style=flat-square" />
-<img src="https://img.shields.io/badge/💼_Open_to_Remote-0e7490?style=flat-square" />
-<img src="https://img.shields.io/badge/⚡_5%2B_Years-0369a1?style=flat-square" />
-
-<br/><br/>
-
-<a href="mailto:krjlabs@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-075985?style=for-the-badge&logo=gmail&logoColor=f9a8d4&labelColor=0c4a6e" />
-</a>
-<a href="https://www.krjlab.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-075985?style=for-the-badge&logo=vercel&logoColor=7dd3fc&labelColor=0c4a6e" />
-</a>
+[![Email](https://img.shields.io/badge/krjlabs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krjlabs@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/krjlab.com-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://www.krjlab.com)
 
 </div>
 
-<br/>
+---
 
-```
-░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░
-```
+## 🧑‍💻 เกี่ยวกับผม
 
-<pre>
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  นักพัฒนา Full-Stack ประสบการณ์ 5+ ปี                    │
-│                                                         │
-│  ▸  ออกแบบ DB → REST API → UI → Deploy บน Linux        │
-│  ▸  AI & Automation: LLM Workflow · Vector Search       │
-│  ▸  Docker + Linux ใน Production จริง                   │
-│  ▸  พร้อมทำงาน Remote ทั่วโลก                           │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-</pre>
+นักพัฒนา **Full-Stack** ที่มีประสบการณ์มากกว่า 5 ปี ในการสร้างระบบธุรกิจภายในองค์กร แพลตฟอร์ม AI และเว็บแอปพลิเคชันระดับ Production
 
-<br/>
+- 🏗️ ทำงานครบวงจร ตั้งแต่ **DB Design → REST API → UI → Deploy บน Linux**
+- 🤖 สนใจ **AI & Automation** — LLM Integration, Vector Search, Intelligent Workflows
+- 🐳 Deploy และดูแลระบบด้วย **Docker + Linux** ใน Production จริง
+- 🌏 พร้อมทำงาน **Remote ทั่วโลก**
 
-```
-░░░░░░░░░░░░░░░░░░  SKILL TREE  ░░░░░░░░░░░░░░░░░░
-```
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,tailwind&theme=dark&perline=7" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,postgres,mysql,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,postgres,mysql,prisma&theme=dark&perline=7" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,cloudflare&theme=dark&perline=7" />
 </p>
 
-<br/>
+---
 
-```
-░░░░░░░░░░░░░░░░░  AI ABILITIES  ░░░░░░░░░░░░░░░░░
-```
+## 🤖 AI & Automation
 
-<pre>
-┌────────────────────┬────────────────────────────────────────┐
-│  LLM Integration   │  Claude API · OpenAI · Streaming       │
-│  Prompt Eng.       │  Few-shot · Chain-of-Thought · Tools   │
-│  Vector Search     │  pgvector · Face Embedding · pg        │
-│  Dev Workflow      │  Claude Code · Cursor · Codex          │
-└────────────────────┴────────────────────────────────────────┘
-</pre>
+| | |
+|---|---|
+| **LLM Integration** | Claude API · OpenAI API · Streaming · Function Calling |
+| **Prompt Engineering** | System Prompts · Few-shot · Chain-of-Thought · Tool Use |
+| **Vector Search** | pgvector · Face Embedding · Similarity Search |
+| **Dev Workflow** | Claude Code · Cursor · Codex · AI-assisted Review |
 
-<br/>
+---
 
-```
-░░░░░░░░░░░░░░░░░░  QUEST LOG  ░░░░░░░░░░░░░░░░░░░
-```
+## ✨ Featured Project
 
-<pre>
-╔══════════════════════════════════════════════════════════╗
-║  ★  GN COLLAGE  —  AI-Powered Face Search Platform      ║
-║     https://gncollage.com                               ║
-╠══════════════════════════════════════════════════════════╣
-║  ▸  Face Embedding pipeline + pgvector similarity       ║
-║  ▸  Cloudflare R2 scalable image storage                ║
-║  ▸  Gallery · Admin Tools · Operational Dashboard       ║
-║  ▸  Deploy: Linux + Docker Production                   ║
-╠══════════════════════════════════════════════════════════╣
-║  STACK: Next.js · TypeScript · PostgreSQL · pgvector    ║
-║         Docker · Linux · Cloudflare R2                  ║
-╚══════════════════════════════════════════════════════════╝
-</pre>
+**[GN Collage](https://gncollage.com)** — AI-Powered Face Search & Gallery Platform
 
-<br/>
+> ระบบ Full-Stack สำหรับตรวจจับใบหน้า สร้าง Embedding และค้นหาความคล้ายคลึงแบบ Real-time
 
-```
-░░░░░░░░░░░░░░░░░░  HIGH SCORE  ░░░░░░░░░░░░░░░░░░
-```
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+- Face Embedding pipeline + ค้นหาด้วย **pgvector**
+- จัดเก็บรูปภาพขนาดใหญ่ผ่าน **Cloudflare R2**
+- Gallery management, Admin Tools และ Operational Dashboard
+- Deploy บน **Linux + Docker** ใน Production
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krjlabs&show_icons=true&theme=transparent&bg_color=0c4a6e&title_color=38bdf8&text_color=7dd3fc&icon_color=f9a8d4&border_color=38bdf830&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krjlabs&layout=compact&theme=transparent&bg_color=0c4a6e&title_color=38bdf8&text_color=7dd3fc&border_color=38bdf830&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krjlabs&show_icons=true&theme=transparent&bg_color=0c4a6e&title_color=38bdf8&text_color=bae6fd&icon_color=f472b6&border_color=38bdf840&rank_icon=github&include_all_commits=true" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krjlabs&layout=compact&bg_color=0c4a6e&title_color=38bdf8&text_color=bae6fd&border_color=38bdf840&langs_count=8" />
 
 </div>
 
-<br/>
+---
 
-```
-░░░░░░░░░░░░░░░░░  BATTLE RECORD  ░░░░░░░░░░░░░░░░
-```
+## 💼 ประสบการณ์
 
-<pre>
-┌─────────────────────┬──────────────────────────┬────────────────────────────┐
-│  ช่วงเวลา            │  ตำแหน่ง                  │  บริษัท                    │
-├─────────────────────┼──────────────────────────┼────────────────────────────┤
-│  ส.ค.67 – ปัจจุบัน  │  Full-Stack Developer     │  ME MESSAGE CO., LTD.      │
-│  ม.ค.66 – ก.ค.67   │  Programmer               │  Sirivatana Interprint PCL │
-│  ก.ย.63 – พ.ย.65   │  IT Developer             │  WANDEE LUXURY STYLE LTD.  │
-│  ต่อเนื่อง           │  Freelance Developer      │  —                         │
-└─────────────────────┴──────────────────────────┴────────────────────────────┘
-</pre>
+| ช่วงเวลา | ตำแหน่ง | บริษัท |
+|----------|---------|--------|
+| ส.ค. 2567 – ปัจจุบัน | Full-Stack Developer | ME MESSAGE CO., LTD. |
+| ม.ค. 2566 – ก.ค. 2567 | Programmer | Sirivatana Interprint PCL |
+| ก.ย. 2563 – พ.ย. 2565 | IT Developer | WANDEE LUXURY STYLE LTD. |
+| ต่อเนื่อง | Freelance Full-Stack Developer | — |
 
-<br/>
+---
 
-```
-░░░░░░░░░░░░░░░░░░  TRAINING  ░░░░░░░░░░░░░░░░░░░
-```
+## 🎓 การศึกษา
 
-<pre>
-  ▸  ครุศาสตรบัณฑิต — คอมพิวเตอร์ศึกษา
-     มหาวิทยาลัยราชภัฏสุรินทร์  ·  2558 – 2563
-</pre>
+**ครุศาสตรบัณฑิต — คอมพิวเตอร์ศึกษา**  
+มหาวิทยาลัยราชภัฏสุรินทร์ &nbsp;·&nbsp; 2558 – 2563
 
-<br/>
-
-<div align="center">
-
-```
-▓▒░  G A M E   O V E R  ░▒▓
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,60:38BDF8,100:0EA5E9&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:38BDF8,100:0EA5E9&height=120&section=footer&animation=fadeIn" />
