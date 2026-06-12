@@ -1,27 +1,28 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:38BDF8,100:7DD3FC&height=180&section=header&animation=fadeIn" />
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=1200&color=93C5FD&center=true&vCenter=true&width=700&height=60&lines=KRISSANA+JANMANEE;FULL+STACK+DEVELOPER;AI+%26+AUTOMATION;%E2%96%B6+THAILAND+%2F+REMOTE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=KRISSANA+JANMANEE)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=FULL+STACK+DEVELOPER;AI+%26+AUTOMATION+BUILDER;%E2%96%B6+THAILAND+%2F+REMOTE)](https://git.io/typing-svg)
 
 <br/>
 
-<pre>
-╔══════════════════════════════════════════════════════╗
-║  ▶  P L A Y E R   O N E                             ║
-╠══════════════════════════════════════════════════════╣
-║  NAME    ┃  KRISSANA JANMANEE                        ║
-║  CLASS   ┃  FULL STACK DEVELOPER                     ║
-║  EXP     ┃  █████████████░░░  5+ YEARS               ║
-║  SERVER  ┃  THAILAND  ·  REMOTE WORLDWIDE            ║
-║  MAIL    ┃  krjlabs@gmail.com                        ║
-║  WEB     ┃  nana-profile.vercel.app                  ║
-╚══════════════════════════════════════════════════════╝
-</pre>
+<img src="https://github.com/krjlabs.png" width="120" height="120" style="border-radius:50%;" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_ประเทศไทย-075985?style=flat-square" />
+<img src="https://img.shields.io/badge/💼_Open_to_Remote-0e7490?style=flat-square" />
+<img src="https://img.shields.io/badge/⚡_5%2B_Years-0369a1?style=flat-square" />
+
+<br/><br/>
 
 <a href="mailto:krjlabs@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-120c32?style=for-the-badge&logo=gmail&logoColor=f9a8d4&labelColor=0d0a1e" />
+  <img src="https://img.shields.io/badge/EMAIL-075985?style=for-the-badge&logo=gmail&logoColor=f9a8d4&labelColor=0c4a6e" />
 </a>
-<a href="https://nana-profile.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-120c32?style=for-the-badge&logo=vercel&logoColor=93c5fd&labelColor=0d0a1e" />
+<a href="https://www.krjlab.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-075985?style=for-the-badge&logo=vercel&logoColor=7dd3fc&labelColor=0c4a6e" />
 </a>
 
 </div>
@@ -105,8 +106,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krjlabs&show_icons=true&theme=transparent&bg_color=0d0a1e&title_color=93c5fd&text_color=c4b5fd&icon_color=f9a8d4&border_color=c4b5fd30&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krjlabs&layout=compact&theme=transparent&bg_color=0d0a1e&title_color=93c5fd&text_color=c4b5fd&border_color=c4b5fd30&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krjlabs&show_icons=true&theme=transparent&bg_color=0c4a6e&title_color=38bdf8&text_color=7dd3fc&icon_color=f9a8d4&border_color=38bdf830&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krjlabs&layout=compact&theme=transparent&bg_color=0c4a6e&title_color=38bdf8&text_color=7dd3fc&border_color=38bdf830&langs_count=8" />
 
 </div>
 
@@ -142,10 +143,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0a1e&height=3&section=footer" />
-
 ```
 ▓▒░  G A M E   O V E R  ░▒▓
 ```
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,60:38BDF8,100:0EA5E9&height=120&section=footer&animation=fadeIn" />
