@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/krjlabs.png" width="110" height="110" style="border-radius:50%;border:3px solid #38BDF8;" />
-
 <h2>👋 สวัสดี ผม Krissana Janmanee</h2>
 
 **Full Stack Developer** · ชอบสร้างของที่แก้ปัญหาได้จริง ทั้ง Frontend, Backend จนถึง AI ที่ deploy ใช้งานได้จริง
@@ -39,10 +37,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=krjlabs&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krjlabs&bg_color=0c4a6e&color=38bdf8&line=0ea5e9&point=f9a8d4&area=true&area_color=38bdf820&hide_border=true" width="100%" />
 
 ---
 
