@@ -1,68 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0a1e,120c32,1a0d4a,0d0a1e&height=200&section=header&text=Krissana%20Janmanee&fontSize=42&fontColor=c4b5fd&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=62&descColor=93c5fd&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0b2b,1e1b4b,312e81,4338ca&height=220&section=header&text=KRISSANA%20JANMANEE&fontSize=26&fontColor=fbbf24&fontAlignY=44&fontFamily=Press+Start+2P&desc=Full%20Stack%20Developer&descAlignY=64&descColor=818cf8&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=17&duration=3000&pause=1000&color=F9A8D4&center=true&vCenter=true&random=false&width=520&lines=Building+Real+Solutions%2C+Not+Just+Code;Frontend+%7C+Backend+%7C+AI+%7C+Deploy;TypeScript+%2F+Next.js+%2F+Node.js;5%2B+Years+%C2%B7+Open+to+Remote+Worldwide" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=15&duration=3000&pause=1200&color=F472B6&center=true&vCenter=true&random=false&width=560&lines=✦+สร้างของที่ใช้งานได้จริง+ไม่ใช่แค่โค้ด+✦;Frontend+%7C+Backend+%7C+AI+%7C+Deploy;5%2B+Years+%C2%B7+Open+to+Remote+Worldwide" />
 
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=krjlabs&color=c4b5fd&style=flat-square&label=visitors)](https://github.com/krjlabs)
+[![](https://komarev.com/ghpvc/?username=krjlabs&color=818cf8&style=flat-square&label=visitors)](https://github.com/krjlabs)
 
 </div>
 
 ---
 
+## 👾 เกี่ยวกับผม
+
+```
+ชื่อ       :  กฤษณะ จันทร์มณี (Krissana Janmanee)
+ตำแหน่ง   :  Full Stack Developer
+ประสบการณ์ :  5+ ปี
+ที่อยู่     :  ประเทศไทย 🇹🇭
+สนใจ      :  Open to Remote Worldwide 🌏
+```
+
+- ชอบสร้างระบบที่แก้ปัญหาได้จริง ตั้งแต่ UI ไปจนถึง Backend และ Deploy
+- มีประสบการณ์ทั้งงาน Startup, Agency และ Product ของตัวเอง
+- สนใจเรื่อง AI Integration และ Developer Experience
+
+---
+
+## 🛠 ทักษะ
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,tailwind,html,css,jquery&theme=dark&perline=10" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,postgres,mysql,prisma,docker&theme=dark&perline=10" />
+
+**Tools & Deploy**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,cloudflare,vscode&theme=dark&perline=10" />
+
+---
+
+## 📋 ประสบการณ์
+
+| ด้าน | รายละเอียด |
+|---|---|
+| **Frontend** | React / Next.js / Vue / Nuxt.js / Tailwind CSS — UI ที่ใช้งานได้จริง responsive ทุก device |
+| **Backend** | Node.js / NestJS / Express / PHP — REST API, Auth, Business Logic |
+| **Database** | PostgreSQL / MySQL / Prisma ORM — ออกแบบ schema, query optimize |
+| **DevOps** | Docker / Linux / Cloudflare / Vercel — deploy และ manage server |
+| **AI** | Integration LLM เข้า product, build agent workflow |
+
+---
+
+## 🏆 Trophies
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krjlabs&show_icons=true&bg_color=0d0a1e&title_color=c4b5fd&text_color=ede9fe&icon_color=93c5fd&border_color=c4b5fd30&count_private=true&hide_border=false" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krjlabs&layout=compact&bg_color=0d0a1e&title_color=c4b5fd&text_color=ede9fe&border_color=c4b5fd30&langs_count=8&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=krjlabs&background=0d0a1e&border=c4b5fd30&stroke=c4b5fd30&ring=c4b5fd&fire=f9a8d4&currStreakNum=ede9fe&sideNums=ede9fe&currStreakLabel=c4b5fd&sideLabels=93c5fd&dates=ede9fe60&hide_border=false" />
+<img src="https://github-profile-trophy.vercel.app/?username=krjlabs&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krjlabs&bg_color=0d0a1e&color=c4b5fd&line=93c5fd&point=f9a8d4&area=true&area_color=c4b5fd&border_color=c4b5fd30&hide_border=false&radius=8" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nuxtjs,tailwind,jquery&theme=dark&perline=10" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,postgres,mysql,prisma,docker,linux,git&theme=dark&perline=10" />
-<br/>
-<img src="https://skillicons.dev/icons?i=github,vercel,cloudflare,vscode&theme=dark&perline=10" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krjlabs&theme=onestar&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
----
+## 📬 ติดต่อ
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krjlabs@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-c4b5fd?style=for-the-badge&logo=safari&logoColor=0d0a1e)](https://www.krjlab.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-818cf8?style=for-the-badge&logo=safari&logoColor=0d0b2b)](https://www.krjlab.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/krjlabs)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=818cf8)](https://github.com/krjlabs)
 
 </div>
 
@@ -76,8 +88,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0a1e,120c32,1a0d4a,0d0a1e&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0b2b,1e1b4b,312e81,4338ca&height=120&section=footer" />
 
 <div align="center">
-<sub>📍 Thailand &nbsp;·&nbsp; ⚡ 5+ Years &nbsp;·&nbsp; 🌏 Open to Remote Worldwide</sub>
+<sub>📍 Thailand &nbsp;·&nbsp; ⚡ 5+ ปี &nbsp;·&nbsp; 🌏 Open to Remote Worldwide</sub>
 </div>
