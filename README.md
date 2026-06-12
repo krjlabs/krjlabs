@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=700&height=65&lines=KRISSANA+JANMANEE;Full+Stack+Developer;AI+%26+Automation+Builder;Open+to+Remote+Worldwide+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=700&height=65&lines=KRISSANA+JANMANEE;นักพัฒนา+Full+Stack;สร้างระบบธุรกิจและ+AI+Platform;พร้อมทำงาน+Remote+ทั่วโลก+🌙)](https://git.io/typing-svg)
 
 <br/>
 
-<img alt="Location" src="https://img.shields.io/badge/📍_Thailand-120c32?style=flat-square&logoColor=f9a8d4" />
-<img alt="Open to Work" src="https://img.shields.io/badge/💼_Open_to_Remote-120c32?style=flat-square&logoColor=fcd34d" />
-<img alt="Experience" src="https://img.shields.io/badge/⚡_5%2B_Years_Experience-120c32?style=flat-square" />
+<img alt="Location" src="https://img.shields.io/badge/📍_ประเทศไทย-120c32?style=flat-square&logoColor=f9a8d4" />
+<img alt="Open to Work" src="https://img.shields.io/badge/💼_พร้อมรับงาน_Remote-120c32?style=flat-square&logoColor=fcd34d" />
+<img alt="Experience" src="https://img.shields.io/badge/⚡_ประสบการณ์_5%2B_ปี-120c32?style=flat-square" />
 
 <br/><br/>
 
@@ -23,25 +23,25 @@
 
 <div align="center">
 
-*"Software that matters isn't measured by features —*
-*it's measured by how much easier it makes people's work."*
+*"ซอฟต์แวร์ที่ดีไม่ใช่ซอฟต์แวร์ที่มีฟีเจอร์มากที่สุด*
+*แต่คือซอฟต์แวร์ที่ช่วยให้คนทำงานได้ง่ายขึ้นและแก้ปัญหาได้จริง"*
 
 </div>
 
 ---
 
-## 🌙 About
+## 🌙 เกี่ยวกับผม
 
-Full-Stack Developer with **5+ years** building internal business systems, AI-powered platforms, and production-ready web applications.
+นักพัฒนา Full-Stack ที่มีประสบการณ์มากกว่า **5 ปี** ในการพัฒนาระบบธุรกิจภายในองค์กร แพลตฟอร์มที่ขับเคลื่อนด้วย AI และเว็บแอปพลิเคชันระดับ Production
 
-- 🏗️ End-to-end ownership: **DB design → REST API → UI → Linux Deployment**
-- 🤖 Currently focused on **AI & Automation** — LLM workflows, vector search, intelligent systems
-- 🐧 Deploy and manage on **Linux + Docker** in production environments
-- 🌏 Based in **Thailand** · Open to **Remote Worldwide**
+- 🏗️ ทำงานครบวงจร: **ออกแบบ DB → REST API → UI → Deploy บน Linux**
+- 🤖 ปัจจุบันสนใจ **AI & Automation** — ระบบค้นหาอัจฉริยะ LLM Workflow
+- 🐧 Deploy และดูแลระบบบน **Linux + Docker** ในสภาพแวดล้อม Production จริง
+- 🌏 อยู่ที่ **ประเทศไทย** · พร้อมทำงาน **Remote ทั่วโลก**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ เทคโนโลยีที่ใช้
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,tailwind&theme=dark" alt="Frontend" />
@@ -78,15 +78,15 @@ Full-Stack Developer with **5+ years** building internal business systems, AI-po
 
 ---
 
-## ✨ Featured Project
+## ✨ โปรเจกต์เด่น
 
 <div align="center">
 
-### [🎴 GN Collage](https://gncollage.com) — AI-Powered Face Search & Gallery Platform
+### [🎴 GN Collage](https://gncollage.com) — แพลตฟอร์มค้นหาใบหน้าด้วย AI
 
 </div>
 
-> Full-stack platform for AI-based face detection, embedding, and similarity search at scale.
+> ระบบ Full-Stack สำหรับตรวจจับใบหน้า สร้าง Embedding และค้นหาความคล้ายคลึงแบบ Real-time
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-120c32?style=flat-square&logo=nextdotjs&logoColor=93c5fd" />
@@ -97,10 +97,10 @@ Full-Stack Developer with **5+ years** building internal business systems, AI-po
   <img src="https://img.shields.io/badge/Cloudflare_R2-120c32?style=flat-square&logo=cloudflare&logoColor=fcd34d" />
 </p>
 
-- Face embedding pipeline + similarity search with **pgvector**
-- Scalable image storage via **Cloudflare R2**
-- Gallery management, admin tools, and operational dashboards
-- Deployed on **Linux + Docker** production environment
+- Pipeline สร้าง Face Embedding และค้นหาด้วย **pgvector**
+- จัดเก็บรูปภาพขนาดใหญ่ผ่าน **Cloudflare R2**
+- ระบบจัดการ Gallery, Admin Tools และ Dashboard ปฏิบัติงาน
+- Deploy บน **Linux + Docker** ใน Production
 
 ---
 
@@ -121,28 +121,26 @@ Full-Stack Developer with **5+ years** building internal business systems, AI-po
 
 ---
 
-## 💼 Experience
+## 💼 ประสบการณ์การทำงาน
 
-| Period | Role | Company |
-|--------|------|---------|
-| Aug 2024 – Present | Full-Stack Developer | ME MESSAGE CO., LTD. |
-| Jan 2023 – Jul 2024 | Programmer | Sirivatana Interprint PCL |
-| Sep 2020 – Nov 2022 | IT Developer | WANDEE LUXURY STYLE LTD. |
-| Ongoing | Freelance Full-Stack Developer | — |
+| ช่วงเวลา | ตำแหน่ง | บริษัท |
+|----------|---------|--------|
+| ส.ค. 2567 – ปัจจุบัน | Full-Stack Developer | ME MESSAGE CO., LTD. |
+| ม.ค. 2566 – ก.ค. 2567 | Programmer | Sirivatana Interprint PCL |
+| ก.ย. 2563 – พ.ย. 2565 | IT Developer | WANDEE LUXURY STYLE LTD. |
+| ต่อเนื่อง | Freelance Full-Stack Developer | — |
 
 ---
 
-## 🎓 Education
+## 🎓 การศึกษา
 
-**Bachelor of Education — Computer Education**
-Surindra Rajabhat University · 2015 – 2020
+**ครุศาสตรบัณฑิต — คอมพิวเตอร์ศึกษา**
+มหาวิทยาลัยราชภัฏสุรินทร์ · 2558 – 2563
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer&animation=fadeIn" />
-
-*Built with 💙 from Thailand*
 
 </div>
