@@ -45,7 +45,7 @@
 <div align="center">
 
 <a href="https://app.daily.dev/krjlabs">
-  <img src="./devcard.svg" width="356" alt="Krissana's Dev Card" />
+  <img src="https://api.daily.dev/devcards/v2/PXo091Rkaa3S3fdexocbY.png?r=8ze&type=default" width="356" alt="𝒦𝓇𝒾𝓈𝓈𝒶𝓃𝒶 𝒥𝒶𝓃𝓂𝒶𝓃𝑒𝑒's Dev Card" />
 </a>
 
 </div>
